@@ -1,0 +1,5 @@
+npx create-react-app foldername
+cd foldername
+
+npm install @mui/material
+npm install @mui/icons-material
